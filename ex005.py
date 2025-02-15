@@ -1,0 +1,8 @@
+print('Vamos denominar o sucessor e o antecessor do numero desejado!')
+x = int(input("Digite o valor/numero: "))
+print("|"*36)
+print('O sucessor de {}, é {}'.format(x,x+1),end = " ")
+print("|"*13)
+print('E o antecessor de {}, é igual a {}'.format(x,x-1),end = ' ')
+print("|")
+print('|'*36)

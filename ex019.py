@@ -1,0 +1,16 @@
+## Len == Quantidade/Tamanho de uma str/stinge (Cadeia de texto)
+## count == conta a quantidade de algum caracter de sua preferencia: Variavel.count('caracter desejado') e se utilizar Variavel.count('Caracter desejado', numero que
+# deseja começar a leitura (1,2,3...), numero que deseja encerrar a leitura (1,2,3...)(obs: sempre considera 1 a menos no encerramento)
+## Find == Retorna onde um caracter desejado se iniciou: variavel.find('caracter desejado')(obs: se find retornar -1, significa que o caracter não existe)
+## In == retorna se existe um caracter desejado na variavel: 'Caracter desejado' in variavel (retorna verdade ou mentira(True or False))
+## Replace == Transforma um caracter variado (caracter que deseja substituir), em um caracter desejado: Variavel.replace('Caracter variado, Caracter desejado)
+## Upper == Transforma um caracter minusculo em Maiusculo: Variavel.uper()
+## lower == Transforma um caracter Maiusculo em minusculo: Variavel.lower()
+## Capitalize == Transforma todos os caracteres em minusculo porem cada caracter de inicio se transforma em Maiusculo: Variavel.capitalize()
+## Title == Transforma todos os caracteres em minusculo porem cada caracter de inicio se transforma em Maiusculo, porem, sera em toda a cadeia: Variavel.title()
+## Strip == Remove todos os spaços inuteis/que não estão na cadeia de caracter: Variavel.strip()
+## Rstrip == Remove todos os spaços inuteis/que não estão na cadeia de caracter. Com r ele apenas remove os espaços da direita: Variavel.rstrip()
+## Lstrip == Remove todos os spaços inuteis/que não estão na cadeia de caracter. Com l ele apenas remove os espaços da esquerda: Variavel.lstrip()
+## Split == Divide a cadeia de caracter, 'removendo' os espaços entre eles, fazendo varias cadeias de caracteres, criando uma lista: Variavel.split()
+## Join == Junta uma cadeia de caracter a outra: ' '.join(Variavel)
+## """ == três aspas no começo e no fim, com quebramentos de linha, reconhece a cadeia de caracter somente com um print
