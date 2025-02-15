@@ -8,7 +8,7 @@
 #format == formatar variavel (exemplo: print ( 'sua variavel é {}'.format(variavel)
 #Type == declata o tipo da variavel.
 
-n1 = int(input('digite um numero:'))
+n1 = int(input('digite um numeroooo:'))
 n2 = int(input('digite o proximo:'))
 s = n1 + n2
 
